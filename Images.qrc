@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/tada-mark-bg.gif</file>
+        <file>Images/b-create_this_list.gif</file>
+        <file>Images/b-add_this_item.gif</file>
+        <file>Images/grey_delete.gif</file>
+        <file>Images/checkmark-16.png</file>
+        <file>Images/checkmark-11.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/"/>
+</RCC>

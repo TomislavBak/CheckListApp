@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NewListText.qml</file>
+        <file>NewItemListText.qml</file>
+        <file>EnterListWindow.qml</file>
+        <file>CheckListPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>EditListPage.qml</file>
+        <file>Global.js</file>
+        <file>AddNewCheckElement.qml</file>
+    </qresource>
+</RCC>
